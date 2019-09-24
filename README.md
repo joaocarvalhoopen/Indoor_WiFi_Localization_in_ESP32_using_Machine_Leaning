@@ -1,4 +1,4 @@
-# Indoor WiFi Localization in ESP32 using Machine Leaning
+# Indoor WiFi Localization in ESP32 using Machine Learning
 In this project a ESP32 microcontroller can do self indoor localization in each room inside a building, using only the nearby WiFi routers public RSSI signal strength value.
 
 ## Description
